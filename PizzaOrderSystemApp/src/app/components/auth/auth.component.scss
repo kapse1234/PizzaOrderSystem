@@ -1,0 +1,27 @@
+.address {
+    .p-dialog {
+        width: 30%;
+
+        .p-inputtext {
+            width: 100%;
+        }
+        form {
+            margin-top: 10px;
+        }
+        .input {
+            margin-top: 10px;
+        }
+        .p-button {
+            width: 100%;
+            background: #8B0000;
+        }
+    }
+
+    .danger {
+        color: red;
+    }
+
+    .not-register {
+        color: #8B0000;
+    }
+}

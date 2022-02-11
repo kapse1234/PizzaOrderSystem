@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9b0b788-10ab-484f-bb37-f81263496b0b": {
+      "ProjectGuid": "f9b0b788-10ab-484f-bb37-f81263496b0b",
+      "DisplayName": "PizzaOrderSystem",
+      "ColorIndex": 0
+    },
+    "893952d1-c807-4144-afd8-d5d7cc096b60": {
+      "ProjectGuid": "893952d1-c807-4144-afd8-d5d7cc096b60",
+      "DisplayName": "PizzaOrderSystemRepository",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

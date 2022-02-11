@@ -1,0 +1,10 @@
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\bin\Debug\netcoreapp3.1\PizzaOrderSystemRepository.deps.json
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\bin\Debug\netcoreapp3.1\PizzaOrderSystemRepository.dll
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\bin\Debug\netcoreapp3.1\PizzaOrderSystemRepository.pdb
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\obj\Debug\netcoreapp3.1\PizzaOrderSystemRepository.csproj.AssemblyReference.cache
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\obj\Debug\netcoreapp3.1\PizzaOrderSystemRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\obj\Debug\netcoreapp3.1\PizzaOrderSystemRepository.AssemblyInfoInputs.cache
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\obj\Debug\netcoreapp3.1\PizzaOrderSystemRepository.AssemblyInfo.cs
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\obj\Debug\netcoreapp3.1\PizzaOrderSystemRepository.csproj.CoreCompileInputs.cache
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\obj\Debug\netcoreapp3.1\PizzaOrderSystemRepository.dll
+C:\Practice Project\pizzaOrderSystem\PizzaOrderSystemRepository\obj\Debug\netcoreapp3.1\PizzaOrderSystemRepository.pdb
